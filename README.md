@@ -14,4 +14,4 @@ A simple, interactive command-line calculator built with Python. This project is
 1. Make sure you have **Python 3.x** installed.
 2. Clone this repository:
    ```bash
-   git clone [https://github.com/ghost20008/SimpleCalculator.git](https://github.com/ghost20008/SimpleCalculator.git)"# SimpleCalculator" 
+   git clone https://github.com/ghost20008/SimpleCalculator.git
